@@ -1,11 +1,5 @@
 const initialState = {
-  products: [
-    {
-      id: 1,
-      title: "Delgado",
-      category: "programmer",
-    },
-  ],
+  products: []
 };
 
 export default initialState
